@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileTransfer</string>
+    <string name="dialog_title">Arquivo não existe</string>
+</resources>
